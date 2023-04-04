@@ -7,11 +7,11 @@ Some of the important parameters to consider are, the number of different types 
 These parameters will be used to make prediction regarding shopping behavior of the user. 
 To summarize, the objective of the SIP project is to determine viability of precise and scalable purchasing intention prediction for e-commerce sites using clickstream and session information data.
 
-# DATA SOURCES
+# DATA SOURCE
 
 SIP model would use data extensively. I used the “Online Shoppers Purchasing Intension Dataset” from “UCI Machine Learning Repository”.
 
-# Tools
+# Tools:
 Weka <br/>
 Python 3	<br/>
 Scikit-learn<br/>
