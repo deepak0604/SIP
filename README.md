@@ -9,14 +9,14 @@ To summarize, the objective of the SIP project is to determine viability of prec
 
 # DATA SOURCES
 
-SIP model would use data extensively. I am planning to use the “Online Shoppers Purchasing Intension Dataset” from “UCI Machine Learning Repository” [1].
+SIP model would use data extensively. I used the “Online Shoppers Purchasing Intension Dataset” from “UCI Machine Learning Repository”.
 
 # Tools
-Weka	
-Python 3	
-Scikit-learn
-Matplotlib
-Spyder
-Python libraries	Numpy - NumPy is the fundamental package for scientific computing with Python.
-Pandas
-Seaborn -  Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
+Weka <br/>
+Python 3	<br/>
+Scikit-learn<br/>
+Matplotlib<br/>
+Spyder<br/>
+Python libraries	Numpy - NumPy is the fundamental package for scientific computing with Python.<br/>
+Pandas<br/>
+Seaborn -  Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.<br/>
