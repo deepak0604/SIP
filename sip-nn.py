@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Nov 25 21:06:32 2020
-
-@author: D107808
-"""
-
 # The following section is more to learn the application of Neural Nets algorithm to build the ML models 
 # Using Keras to train and test the Neural Nets:
 # Building neural network with keras 
