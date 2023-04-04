@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Dec  2 15:59:10 2020
-
-@author: D107808
-"""
 # Building neural network with keras 
 import os
 import pandas as pd
