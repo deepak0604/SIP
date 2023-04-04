@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Nov 12 18:16:02 2020
-
-@author: Deepak Bhatia
-"""
 # Libraries
 import os
 import pandas as pd
